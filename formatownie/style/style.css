@@ -1,0 +1,85 @@
+body
+{
+    background-color: #800000; 
+    margin: 10px;
+     padding: 10px;
+}
+h1
+{
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 3px 2px #ff0;    
+}
+ol 
+{
+    font-size: 20pt;
+    font-family: 'Segoe UI';
+    letter-spacing: 2px;
+    text-shadow: 1px , 2px , #0f0;
+}
+
+ul 
+{ 
+    list-style-image: url(../grafiki/ikona.png); 
+}
+
+.styczen
+{
+    background-image: url(../grafiki/zima.JPG);
+    width: 400px; 
+}
+.luty
+{
+    background-image: url(../grafiki/zima.JPG);
+    width: 400px; 
+}
+.marzec
+{
+    background-image: url(../grafiki/zima.JPG);
+    width: 400px; 
+}
+.kwiecien
+{
+    background-image: url(../grafiki/wiosna.jpg);
+    width: 400px; 
+}
+.maj
+{
+    background-image: url(../grafiki/wiosna.jpg);
+    width: 400px; 
+}
+.czerwiec
+{
+    background-image: url(../grafiki/wiosna.jpg);
+    width: 400px; 
+}
+.lipiec
+{
+    background-image: url(../grafiki/lato.jpg);
+    width: 400px; 
+}
+.sierpien
+{
+    background-image: url(../grafiki/lato.jpg);
+    width: 400px; 
+}
+.wrzesien
+{
+    background-image: url(../grafiki/lato.jpg);
+    width: 400px; 
+}
+.pazdziernik
+{
+    background-image: url(../grafiki/jesień.jpg);
+    width: 400px; 
+}
+.listopad
+{
+    background-image: url(../grafiki/jesień.jpg);
+    width: 400px; 
+}
+.grudzien
+{
+    background-image: url(../grafiki/jesień.jpg);
+    width: 400px; 
+}
